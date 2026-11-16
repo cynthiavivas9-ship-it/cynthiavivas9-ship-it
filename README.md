@@ -45,15 +45,14 @@ Analizo datos cuantitativos y desarrollo modelos analíticos para transformar pr
 
 - **Problema:** detectar clientes insatisfechos y tratar el desbalanceo de clases en transacciones comerciales.
 - **Herramientas:** Scikit-Learn, Random Forest, XGBoost, Imbalanced-learn.
-- **Resultados:** [COMPLETAR: métricas reales, por ejemplo F1 / AUC de cada modelo en la clase minoritaria].
-- **Hallazgo clave:** [COMPLETAR].
+- **Resultados:** 
+- **Hallazgo clave:** .
 
 ### 🔹 [Análisis de Mercado Laboral e Inclusión Tecnológica (EPH)](https://github.com/cynthiavivas9-ship-it/COMPLETAR-NOMBRE-DEL-REPO)
 
 - **Problema:** analizar la evolución del mercado laboral argentino (2019-2023) con la Encuesta Permanente de Hogares (INDEC), incluyendo la brecha de acceso tecnológico.
 - **Herramientas:** Python, Pandas, Streamlit.
-- **Resultado:** dashboard interactivo de tendencias de empleo, ingresos y acceso tecnológico. 👉 [Ver demo en vivo](COMPLETAR-LINK-DE-STREAMLIT)
-- **Hallazgo clave:** [COMPLETAR].
+- **Resultado:** dashboard interactivo de tendencias de empleo, ingresos y acceso tecnológico. 👉 [Ver demo en vivo]
+  
 
-> 📸 Tip: agregá una captura o GIF de cada proyecto justo debajo de su título.
 
