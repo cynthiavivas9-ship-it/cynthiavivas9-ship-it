@@ -38,21 +38,20 @@ Analizo datos cuantitativos y desarrollo modelos analíticos para transformar pr
 
 - **Problema:** estimar y predecir salarios en el sector tecnológico a partir de la encuesta de sueldos de Sysarmy, considerando experiencia, stack técnico, dolarización y estado de búsqueda laboral.
 - **Herramientas:** Python, Pandas, Scikit-Learn (Regresión Lineal y Logística), balanceo de clases.
-- **Resultados:** [COMPLETAR: métricas reales, por ejemplo R² = X.XX en la estimación logarítmica de ingresos; F1 = X.XX en la clasificación de dolarización].
-- **Hallazgo clave:** [COMPLETAR: una conclusión concreta, por ejemplo qué variable pesa más en el salario].
+- Predicción de salarios con la encuesta Sysarmy. Comparé 3 modelos contra un baseline y validé con 5-Fold CV.
+**Resultado:** HistGradientBoosting con R² = 0,53 y MAE de ~$992 mil (26,5% del salario promedio), 36% menos error que el baseline.
+**Hallazgo:** los años de experiencia son, por lejos, la variable que más pesa en el salario.
 
 ### 🔹 [Modelo Predictivo de Clasificación para E-commerce](https://github.com/cynthiavivas9-ship-it/COMPLETAR-NOMBRE-DEL-REPO)
 
 - **Problema:** detectar clientes insatisfechos y tratar el desbalanceo de clases en transacciones comerciales.
 - **Herramientas:** Scikit-Learn, Random Forest, XGBoost, Imbalanced-learn.
-- **Resultados:** 
-- **Hallazgo clave:** .
 
 ### 🔹 [Análisis de Mercado Laboral e Inclusión Tecnológica (EPH)](https://github.com/cynthiavivas9-ship-it/COMPLETAR-NOMBRE-DEL-REPO)
 
 - **Problema:** analizar la evolución del mercado laboral argentino (2019-2023) con la Encuesta Permanente de Hogares (INDEC), incluyendo la brecha de acceso tecnológico.
 - **Herramientas:** Python, Pandas, Streamlit.
-- **Resultado:** dashboard interactivo de tendencias de empleo, ingresos y acceso tecnológico. 👉 [Ver demo en vivo]
+- **Resultado:** dashboard interactivo de tendencias de empleo, ingresos y acceso tecnológico.
   
 
 
